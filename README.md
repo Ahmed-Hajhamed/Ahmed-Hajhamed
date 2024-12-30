@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 📧 Email: **ahmed.hajhamed03@eng-st.cu.edu.eg*
+- 📧 Email: **ahmed.hajhamed03@eng-st.cu.edu.eg**
 - 📞 WhatsApp: **+201141272418**
 
 ##
