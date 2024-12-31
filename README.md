@@ -74,10 +74,10 @@
   </a>
 </p>
 
-## Technologies Used
+## Coding Skills
 
 - **Machine Learning and Data Science**: OpenCV, Scikit-learn
-- **Frontend Development**: PyQt
+- **Frontend Development**: PyQt5
 - **Programming Languages**: Python, C++, Java, Dart, MATLAB
 - **Database**: Microsoft SQL Server
 - **Version Control**: Git
