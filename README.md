@@ -76,10 +76,11 @@
 
 ## Coding Skills
 
-- **Machine Learning and Data Science**: OpenCV, Scikit-learn
+- **Machine Learning and Data Science**: OpenCV, Scikit-learn.
 - **Frontend Development**: PyQt5
-- **Programming Languages**: Python, C++, Java, Dart, MATLAB
-- **Database**: Microsoft SQL Server
+- **Programming Languages**: Python, C++, Java, Dart, MATLAB.
+- **Graphics**: OpenGL, Blender.
+- **Database**: Microsoft SQL Server.
 - **Version Control**: Git
-- **Mobile Development**: Android, Flutter
-- **IoT and Hardware**: Arduino, ESP32
+- **Mobile Development**: Android, Flutter.
+- **Robotics and Hardware**: Arduino, ESP32.
