@@ -75,13 +75,13 @@
   </a>
 </p>
 
-## Coding Skills
+## Skills and Tools
 
 - **Machine Learning and Data Science**: OpenCV, Scikit-learn.
 - **Frontend Development**: PyQt5
 - **Programming Languages**: Python, C++, Java, Dart, MATLAB.
-- **Graphics**: OpenGL, Blender.
 - **Database**: Microsoft SQL Server.
 - **Version Control**: Git
 - **Mobile Development**: Android, Flutter.
+- **Graphics**: OpenGL, Blender.
 - **Robotics and Hardware**: Arduino, ESP32.
