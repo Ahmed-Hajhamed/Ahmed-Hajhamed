@@ -28,15 +28,15 @@
 
 
 # 🚀 What I’m Working On
-- 2D Beamforming Simulator: Construct phased arrays systems and simulate their interference.
-- Audio Equalizer: Advanced audio equalization with visualization and noise filtering.
-- Signal Sampling and Reconstruction Studio: Sampling and reconstruction using different techniques.
-- Fourier Transform Image Mixer: Combine images using Fourier transform components.
-- Shazam-like Song Identifier: Identify songs using fingerprinting and feature matching.
-- Real-Time Signal Viewer: Multi-port app for monitoring signals in cine mode.
-- CTG Heart Failure Detection: Detect potential signs of heart failure in CTG signals.
-- Chessico: Offline Chess game.
-- AquaTrack: Innovative IoT project for daily hydration monitoring.
+- **2D Beamforming Simulator**: Construct phased arrays systems and simulate their interference.
+- **Audio Equalizer**: Advanced audio equalization with visualization and noise filtering.
+- **Signal Sampling and Reconstruction Studio**: Sampling and reconstruction using different techniques.
+- **Fourier Transform Image Mixer**: Combine images using Fourier transform components.
+- **Shazam-like Song Identifier**: Identify songs using fingerprinting and feature matching.
+- **Real-Time Signal Viewer**: Multi-port app for monitoring signals in cine mode.
+- **CTG Heart Failure Detection**: Detect potential signs of heart failure in CTG signals.
+- **Chessico**: Offline Chess game.
+- **AquaTrack**: Innovative IoT project for daily hydration monitoring.
 
 ## Skills and Tools
 
