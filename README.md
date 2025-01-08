@@ -27,7 +27,7 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 
-# 🚀 What I’m Working On
+## 🚀 Projects
 - **2D Beamforming Simulator**: Construct phased arrays systems and simulate their interference.
 - **Audio Equalizer**: Advanced audio equalization with visualization and noise filtering.
 - **Signal Sampling and Reconstruction Studio**: Sampling and reconstruction using different techniques.
