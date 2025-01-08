@@ -5,11 +5,6 @@
 <h3 align="center">A BSc Biomedical Engineering Student at Cairo University</h3>
 <h3 align="center">💻 Passionate about Desktop Development, Machine Learning, and Signal Processing</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-hajhamed&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-hajhamed" /> </p>
-
-
 ##
 
 ##
@@ -33,15 +28,15 @@
 
 
 # 🚀 What I’m Working On
--2D Beamforming Simulator: Construct phased arrays systems and simulate their interference.
--Audio Equalizer: Advanced audio equalization with visualization and noise filtering.
--Signal Sampling and Reconstruction Studio: Sampling and reconstruction using different techniques.
--Fourier Transform Image Mixer: Combine images using Fourier transform components.
--Shazam-like Song Identifier: Identify songs using fingerprinting and feature matching.
--Real-Time Signal Viewer: Multi-port app for monitoring signals in cine mode.
--CTG Heart Failure Detection: Detect potential signs of heart failure in CTG signals.
--Chessico: Offline Chess game.
--AquaTrack: Innovative IoT project for daily hydration monitoring.
+- 2D Beamforming Simulator: Construct phased arrays systems and simulate their interference.
+- Audio Equalizer: Advanced audio equalization with visualization and noise filtering.
+- Signal Sampling and Reconstruction Studio: Sampling and reconstruction using different techniques.
+- Fourier Transform Image Mixer: Combine images using Fourier transform components.
+- Shazam-like Song Identifier: Identify songs using fingerprinting and feature matching.
+- Real-Time Signal Viewer: Multi-port app for monitoring signals in cine mode.
+- CTG Heart Failure Detection: Detect potential signs of heart failure in CTG signals.
+- Chessico: Offline Chess game.
+- AquaTrack: Innovative IoT project for daily hydration monitoring.
 
 ## Skills and Tools
 
