@@ -23,10 +23,6 @@
 ##
 
 
-
-<h3 align="left">🧰 Languages and Tools:</h3>
-
-
 ## 🚀 Projects
 - **2D Beamforming Simulator**: Construct phased arrays systems and simulate their interference.
 - **Audio Equalizer**: Advanced audio equalization with visualization and noise filtering.
@@ -37,6 +33,7 @@
 - **CTG Heart Failure Detection**: Detect potential signs of heart failure in CTG signals.
 - **Chessico**: Offline Chess game.
 - **AquaTrack**: Innovative IoT project for daily hydration monitoring.
+
 
 ## Skills and Tools
 
