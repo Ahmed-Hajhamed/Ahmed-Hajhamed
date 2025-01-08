@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hajhamed </h1>
 
 <h3 align="center">A BSc Biomedical Engineering Student at Cairo University</h3>
+<h3 align="center">💻 Passionate about Python Development, Signal Processing, and Machine Learning</h3>
 
 
 
