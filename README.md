@@ -31,7 +31,7 @@
 - **Shazam-like Song Identifier**: Identify songs using fingerprinting and feature matching.
 - **Real-Time Signal Viewer**: Multi-port app for monitoring signals in cine mode.
 - **CTG Heart Failure Detection**: Detect potential signs of heart failure in CTG signals.
-- **Chessico**: Offline Chess game.
+- **Chessico**: Offline Chess game with modified rules.
 - **AquaTrack**: Innovative IoT project for daily hydration monitoring.
 
 
