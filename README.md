@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hajhamed </h1>
 
 <h3 align="center">A BSc Biomedical Engineering Student at Cairo University</h3>
-<h3 align="center">💻 Passionate about Desktop Development, Machine Learning, and Signal Processing</h3>
+<h3 align="center">💻 Passionate about Desktop Development, Machine Learning, and Computer Vision </h3>
 
 ##
 
