@@ -44,7 +44,7 @@
 ## Skills and Tools
 
 - **Machine Learning and Data Science**: OpenCV, Scikit-learn, TensorFlow, IBM SPSS.
-- **Frontend Development**: PyQt5
+- **GUI Development**: PyQt5
 - **Programming Languages**: Python, C++, C, Java, Dart, MATLAB.
 - **Database**: Microsoft SQL Server.
 - **Version Control**: Git
