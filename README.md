@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Hajhamed </h1>
 
-<h3 align="center">A BSc Biomedical Engineering Student at Cairo University</h3>
+<h3 align="center">Senior BSc in Biomedical Engineering Student at Cairo University</h3>
 <h3 align="center">💻 Passionate about Scientific Development, Embedded Systems and Data Analysis </h3>
 
 ##
