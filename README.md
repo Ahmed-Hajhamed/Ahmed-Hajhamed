@@ -24,6 +24,7 @@
 
 
 ## 🚀 Projects
+- **Heartology**: A comprehensive Hospital Information System (HIS) for cardiology centers, built with React, HTML, and CSS.
 - **2D Beamforming Simulator**: Construct phased arrays systems and simulate their interference.
 - **Audio Equalizer**: Advanced audio equalization with visualization and noise filtering.
 - **Chessico**: Offline Chess game with modified rules.
