@@ -119,7 +119,7 @@ A collection of computer vision algorithms implemented from scratch to study mat
 
 ---
 
-### [FlexoGrip — Adaptive Rehabilitation Hand Exoskeleton]https://github.com/Ahmed-Hajhamed/FlexoGrip-EMG-Rehab-Hand-Exoskeleton)
+### [FlexoGrip — Adaptive Rehabilitation Hand Exoskeleton](https://github.com/Ahmed-Hajhamed/FlexoGrip-EMG-Rehab-Hand-Exoskeleton)
 
 An intelligent rehabilitation hand exoskeleton featuring machine learning-based gesture recognition and adaptive impedance control.
 
