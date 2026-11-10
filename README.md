@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Adil 👋
+# Hi, I'm Ahmed Hajhamed 👋
 
 ### Biomedical Engineering Student | Computer Vision & Medical AI Enthusiast | Embedded Systems Developer
 
