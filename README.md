@@ -2,7 +2,7 @@
 
 ### Biomedical Engineering Student | Computer Vision & Medical AI Enthusiast | Embedded Systems Developer
 
-Final-year Biomedical Engineering and Systems student at Cairo University with interests spanning **computer vision**, **medical visualization**, **machine learning**, **embedded systems**, and **assistive technologies**.
+B.Sc. in Biomedical Engineering and Systems at Cairo University with interests spanning **computer vision**, **medical visualization**, **machine learning**, **embedded systems**, and **assistive technologies**.
 
 I enjoy building systems from the ground up: from mathematical models and algorithms to interactive software and hardware prototypes.
 
